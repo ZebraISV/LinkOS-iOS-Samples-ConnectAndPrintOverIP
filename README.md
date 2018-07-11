@@ -1,8 +1,7 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# LinkOS-iOS-Samples-ConnectAndPrintOverIP
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
+
 
 <p float="left">
 <img width="432" height=”600” alt="screen shot 2018-07-10 at 10 25 43 pm" src="https://user-images.githubusercontent.com/41017424/42549132-3f1b91e2-8490-11e8-9ad8-cf6ff4d97b8d.png">
